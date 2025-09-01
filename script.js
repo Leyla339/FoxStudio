@@ -34,7 +34,7 @@ if (lightBtn && darkBtn) {
     if (backIcon) backIcon.src = "./img/back.svg";
     if (closeIcon) closeIcon.src = "./img/close.svg";
 
-    if (phoneImg) phoneImg.src = "./img/place.svg";
+    if (phoneImg) phoneImg.src = "./img/phone.svg";
     if (mailImg) mailImg.src = "./img/mail.svg";
     if (placeImg) placeImg.src = "./img/place.svg";
 
